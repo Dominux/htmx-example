@@ -14,4 +14,5 @@ Once the server is run (usually takes less than a second) simply go to [localhos
 
 ### Description
 
-Made by [video tutorial](https://www.youtube.com/watch?v=F9H6vYelYyU). No dependencies needed (golang tooling already has all we need built-in). Everything runs on a single server without any js used.
+Made by [video tutorial](https://www.youtube.com/watch?v=F9H6vYelYyU). No dependencies needed (golang tooling already has all we need built-in). Everything runs on a single server without any js.
+Actually any HTML templating capable backend technology can be used.
