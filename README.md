@@ -1,4 +1,4 @@
-# HTMX-example
+# [HTMX](https://htmx.org/) example
 
 ### Dependencies:
 
